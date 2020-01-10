@@ -4,7 +4,13 @@
 
 ##  截图：
 
+![img](https://github.com/aishang2015/6v_app/blob/master/screenshots/1.jpg)
 
+![img](https://github.com/aishang2015/6v_app/blob/master/screenshots/2.jpg)
+
+![img](https://github.com/aishang2015/6v_app/blob/master/screenshots/3.jpg)
+
+![img](https://github.com/aishang2015/6v_app/blob/master/screenshots/4.jpg)
 
 ##  依赖：
 
