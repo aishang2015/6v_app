@@ -1,0 +1,5 @@
+{
+  "isEnable": true,
+  "expire": 43200000,
+  "maxCount": 100
+}
