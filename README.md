@@ -15,11 +15,17 @@
 ##  依赖：
 
  dio: 网络通信
+
  flutter_screenutil: 屏幕适配
+
  flutter_html: 显示html
+
  flutter_staggered_grid_view: 瀑布流
+
  cached_network_image：缓存图片
+
  url_launcher: 加载应用
+
  fluttertoast: 提示
 
 ## 原理：
